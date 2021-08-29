@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazon-dumy/static/css/main.7e0b9a5a.chunk.css",
+    "main.js": "/amazon-dumy/static/js/main.5f266059.chunk.js",
+    "main.js.map": "/amazon-dumy/static/js/main.5f266059.chunk.js.map",
+    "runtime-main.js": "/amazon-dumy/static/js/runtime-main.90c35820.js",
+    "runtime-main.js.map": "/amazon-dumy/static/js/runtime-main.90c35820.js.map",
+    "static/js/2.6db15e49.chunk.js": "/amazon-dumy/static/js/2.6db15e49.chunk.js",
+    "static/js/2.6db15e49.chunk.js.map": "/amazon-dumy/static/js/2.6db15e49.chunk.js.map",
+    "static/js/3.36716871.chunk.js": "/amazon-dumy/static/js/3.36716871.chunk.js",
+    "static/js/3.36716871.chunk.js.map": "/amazon-dumy/static/js/3.36716871.chunk.js.map",
+    "index.html": "/amazon-dumy/index.html",
+    "static/css/main.7e0b9a5a.chunk.css.map": "/amazon-dumy/static/css/main.7e0b9a5a.chunk.css.map",
+    "static/js/2.6db15e49.chunk.js.LICENSE.txt": "/amazon-dumy/static/js/2.6db15e49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90c35820.js",
+    "static/js/2.6db15e49.chunk.js",
+    "static/css/main.7e0b9a5a.chunk.css",
+    "static/js/main.5f266059.chunk.js"
+  ]
+}
